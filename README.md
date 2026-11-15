@@ -21,7 +21,7 @@ Não precisa instalar nada. Baixe o repositório e abra o arquivo `orbe_gestao_e
 
 ```bash
 git clone [URL-DO-REPOSITORIO]
-cd [NOME-DA-PASTA]
+cd Projeto
 # abra orbe_gestao_empresarial.html com um clique duplo
 ```
 
