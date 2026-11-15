@@ -1,4 +1,4 @@
-# orbe-gestao-empresarialSistema web simples de gestão empresarial: reúne pedidos, clientes e negócios, notas fiscais e financeiro em um só lugar, com indicadores de vendas e de contas a receber.
+#Sistema web simples de gestão empresarial: reúne pedidos, clientes e negócios, notas fiscais e financeiro em um só lugar, com indicadores de vendas e de contas a receber.
 
 **Autor:** Gabriel Faria de Queiroz
 **Disciplina:** Análise e Projeto de Sistemas
