@@ -1,4 +1,6 @@
-## Sistema web simples de gestão empresarial: reúne pedidos, clientes e negócios, notas fiscais e financeiro em um só lugar, com indicadores de vendas e de contas a receber.
+# Orbe | Gestão empresarial
+
+Sistema web simples de gestão empresarial: reúne pedidos, clientes e negócios, notas fiscais e financeiro em um só lugar, com indicadores de vendas e de contas a receber.
 
 **Autor:** Gabriel Faria de Queiroz
 **Disciplina:** Análise e Projeto de Sistemas
@@ -21,7 +23,8 @@ Não precisa instalar nada. Baixe o repositório e abra o arquivo `orbe_gestao_e
 
 ```bash
 git clone https://github.com/Gabriel-giff/orbe-gestao-empresarial
-cd Projeto
+cd orbe-gestao-empresarial
+# abra orbe_gestao_empresarial.html com um clique duplo
 ```
 
 Os dados ficam salvos no navegador e no dispositivo em que o arquivo foi aberto. Use o botão "Backup" para guardar uma cópia e transferi-la para outro computador.
