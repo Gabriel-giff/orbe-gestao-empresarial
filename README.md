@@ -20,9 +20,8 @@ O Orbe apenas registra notas já emitidas. Não emite NF-e nem NFS-e.
 Não precisa instalar nada. Baixe o repositório e abra o arquivo `orbe_gestao_empresarial.html` no navegador (Chrome, Firefox ou Edge).
 
 ```bash
-git clone (https://github.com/Gabriel-giff/orbe-gestao-empresarial)]
+git clone https://github.com/Gabriel-giff/orbe-gestao-empresarial
 cd Projeto
-# abra orbe_gestao_empresarial.html com um clique duplo
 ```
 
 Os dados ficam salvos no navegador e no dispositivo em que o arquivo foi aberto. Use o botão "Backup" para guardar uma cópia e transferi-la para outro computador.
